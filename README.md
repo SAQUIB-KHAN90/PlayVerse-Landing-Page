@@ -18,6 +18,7 @@ GSAP (GreenSock Animation Platform): For creating high-performance animations.
 
 ## 📂 Project Structure
 
+```bash
 .
 ├── public/ # Static assets (images, icons, etc.)
 ├── src/
@@ -31,6 +32,7 @@ GSAP (GreenSock Animation Platform): For creating high-performance animations.
 ├── tailwind.config.js # Tailwind CSS configuration
 ├── package.json # Dependencies and scripts
 └── README.md # Project documentation
+```
 
 ## 🔧 Installation
 
