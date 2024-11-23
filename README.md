@@ -46,7 +46,7 @@ Clone the Repository:
 
 ```bash
 
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/SAQUIB-KHAN90/PlayVerse-Landing-Page
 cd your-repo-name
 ```
 
